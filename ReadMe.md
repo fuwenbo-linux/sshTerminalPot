@@ -1,5 +1,6 @@
 # ssh honey pot server
-## usage python3 sshsimplerserver.py and build necessary tools
+## usage  
+python3 sshsimplerserver.py and build necessary tools
 ## now the project is building.the build process depend on my mood. ^_^
 
 ## step1 know the twisted how to work
